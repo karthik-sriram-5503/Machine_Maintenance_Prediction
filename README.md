@@ -1,7 +1,6 @@
 
 # Machine Maintenance Prediction Project
 
-![Maintenance Prediction](project_image.png)
 
 ## Overview
 
